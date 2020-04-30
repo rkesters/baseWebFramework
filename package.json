@@ -54,7 +54,7 @@
     "backbone.radio": "2.0.0",
     "bootstrap": "4.3.1",
     "handlebars": "4.1.2",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "lodash": "4.17.14",
     "popper.js": "^1.15.0",
     "pretty-diff": "0.7.1",
