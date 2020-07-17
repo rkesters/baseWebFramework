@@ -55,7 +55,7 @@
     "bootstrap": "4.3.1",
     "handlebars": "4.1.2",
     "jquery": "3.4.1",
-    "lodash": "4.17.14",
+    "lodash": "4.17.19",
     "popper.js": "^1.15.0",
     "pretty-diff": "0.7.1",
     "unibeautify": "^0.17.0",
